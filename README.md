@@ -7,6 +7,9 @@
 - Javascript (Vanilla, D3)
 - Bash
 - Java
+- PHP
+- MySQL
+
 ### Working On
 - Perfecting IVIN app
 - Building Better Websites
