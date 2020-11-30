@@ -1,7 +1,7 @@
 # Hi! My name is Kyle
 ## I am teaching myself to code and this is my Github!
 
-### Learned or Learning
+### Learned or Learning :man_technologist:
 - HTML
 - CSS
 - Javascript (Vanilla, D3)
