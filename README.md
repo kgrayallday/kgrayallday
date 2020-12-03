@@ -4,7 +4,7 @@
 ### :man_technologist: Learned or Learning 
 - HTML
 - CSS
-- Javascript (Vanilla, D3)
+- Javascript
 - Bash
 - Java
 - PHP
