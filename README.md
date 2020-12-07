@@ -15,3 +15,7 @@
 - Building Better Websites
 - Server Security (and just info sec in general)
 
+### :: To The Future
+- Would love to contribute to Open Source Projects
+- Full-Time job programming would be cool 
+- I would also love to teach/volunteer 
