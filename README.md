@@ -1,7 +1,7 @@
 # Hi! My name is Kyle
 ## I am teaching myself to code and this is my Github!
 
-### :man_technologist: Learned or Learning 
+### :man_technologist: Skills
 - HTML
 - CSS
 - Javascript
@@ -10,7 +10,7 @@
 - PHP
 - MySQL
 
-### :man_astronaut: Working On 
+### :man_astronaut: In the Works 
 - Perfecting IVIN app
 - Building Better Websites
 - Server Security (and just info sec in general)
