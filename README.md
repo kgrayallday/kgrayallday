@@ -5,7 +5,7 @@
 - HTML
 - CSS
 - Javascript
-- Bash
+- Bash/Shell
 - Java
 - PHP
 - MySQL
@@ -15,7 +15,7 @@
 - Building Better Websites
 - Server Security (and just info sec in general)
 
-### :crystal_ball: To The Future
+### :crystal_ball: The Future
 - Would love to contribute to Open Source Projects
 - Full-Time job programming would be cool 
 - I would also love to teach/volunteer 
