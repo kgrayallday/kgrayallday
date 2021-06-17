@@ -11,9 +11,7 @@
 - MySQL
 
 ### :man_astronaut: In the Works 
-- Perfecting IVIN app
-- Building Better Websites
-- Server Security (and just info sec in general)
+- Bootcamp at Lighthouse Labs
 
 ### :crystal_ball: The Future
 - Would love to contribute to Open Source Projects
