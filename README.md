@@ -12,8 +12,11 @@
 
 ### :man_astronaut: In the Works 
 - Bootcamp at Lighthouse Labs
+- Constantly Learning VIM
 
-### :crystal_ball: The Future
+### :crystal_ball: The Near Future
 - Would love to contribute to Open Source Projects
 - Full-Time job programming would be cool 
 - I would also love to teach/volunteer 
+- Lua
+- Python
